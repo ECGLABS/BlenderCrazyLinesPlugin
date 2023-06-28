@@ -13,3 +13,4 @@ But the Crazy Lines plugin isn't just for replicating the style of "Ed, Edd n Ed
 So don't wait any longer – download the Crazy Lines plugin now and start adding some wild and zany designs to your Blender projects. Whether you're a fan of "Ed, Edd n Eddy" or just want to add some visual interest to your work, the Crazy Lines plugin has something for everyone. Boost your Blender skills and take your creativity to new heights with the Crazy Lines plugin.
 
 # Usage
+Refer to the CrazyLinesDocumentation.pdf for a step by step guide on how to implement this into Blender and how to use it.
